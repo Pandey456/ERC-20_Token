@@ -4,7 +4,7 @@ A robust, standard ERC-20 token implementation built with **Foundry** and secure
 
 ## 🎯 Purpose
 
-These tokens are specifically structured to act as base assets and liquidity pair tokens for a custom Automated Market Maker (AMM) protocol, heavily drawing from the architecture of **Uniswap V2**. They are designed to interact seamlessly with liquidity provisioning (`addLiquidity` / `removeLiquidity`), automated pricing curves, and token swapping mechanisms.
+These tokens are specifically structured to act as base trading pair and LP token will be a seperate ERC-20 token mineted by the pool.
 
 ---
 
